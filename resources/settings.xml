@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="ScrapeCore Bowser">
+		<setting label="ScrapeCore Bowser" type="text" enable="false"></setting>
+		<setting label="Demo ScrapeCore Addon" type="text" enable="false"></setting>
+		<setting type="sep"></setting>
+		<setting label="For support go to http://tvaddons.co" type="text" enable="false"></setting>
+		<setting default="" id="user_agent" type="text" visible="false"></setting>
+		<setting default="" id="agent_refresh_time" type="text" visible="false"></setting>
+	</category>
+</settings>
+
+
+
